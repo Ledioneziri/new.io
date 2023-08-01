@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+  
+    
+}
+.navbar{
+    background-image: url(main.img);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-link {
+    
+    font-weight: 500;
+    text-decoration: none;
+  
+
+
+}
+.nav-link:hover{
+    transform: scale(1.1);
+    
+}
+
+#navbarNav{
+    
+    justify-content: center;
+}
+
+.btn{
+    margin-top: 25%;
+    margin-left: 3%;
+
+}
+.ledio{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.ledion{
+    position: relative;
+    font-weight: 300;
+    margin-top: 5%;
+    margin-left: 4%;
+
+}
+#carouselExampleCaptions{
+    margin-top: 20%;
+    position: relative;
+    border: 1px solid;
+    
+    
+}
+.mainh{
+
+    position: absolute;
+    margin-top: 9%;
+    margin-left: 5%;
+    font-weight: 300;
+
+}
+.ledionn{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    
+    
+}
+.card-img-top{
+    height: 100%;
+    padding: 2%;
+}
+.footer{
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    padding-top: 1%;
+    padding-bottom: 7%;
+    
+
+}
+
+
